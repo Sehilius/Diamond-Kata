@@ -1,0 +1,23 @@
+{
+  "name": "Diamond-Kata",
+  "version": "1.0.0",
+  "description": "Enter a Letter, to generate the diamond with the input letter in the center",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sehilius/Diamond-Kata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sehilius/Diamond-Kata/issues"
+  },
+  "homepage": "https://github.com/Sehilius/Diamond-Kata#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
